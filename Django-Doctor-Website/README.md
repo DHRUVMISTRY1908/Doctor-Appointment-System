@@ -2,7 +2,7 @@
 
 # Doctor Appointment System Website
 
-![Doctor Appointment System]([screenshot.png](https://i.ibb.co/gjmMjR9/Family-Doctor.png))
+![Doctor Appointment System](https://i.ibb.co/gjmMjR9/Family-Doctor.png)
 
 ## Table of Contents
 
